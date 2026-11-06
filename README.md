@@ -7,11 +7,11 @@ I create business web applications, write low-level libraries, and also make gam
 
 ## 💎 Significant projects:
 
-| Name | Description | Type | Technology | Links |
-| :--: | :---------- | :--: | :--------: | :---: |
-| **FormuLang** | Mathematical, formula-based interpreted scripting language for performing custom, real-time mathematical operations. | `Concept` `Documentation` | `Markdown` | [Repository](https://github.com/Adisoreq/FormuLang) |
+| Project | Description | Type | Technology | Links |
+| :-----: | :---------- | :--: | :--------: | :---: |
+| FormuLang <br> ![Icon](https://raw.githubusercontent.com/Adisoreq/FormuLang/main/raw/images/logo/formulang.svg) | Mathematical, formula-based interpreted scripting language for performing custom, real-time mathematical operations. | `Concept` `Documentation` | `Markdown` | [Repository](https://github.com/Adisoreq/FormuLang) |
 | **ConsoleUtils** | C++ header-only library to automate writing multiplatform console applications. Contains optimized and universal functions to manipulate user's terminal, suited for Windows, Mac and Linux. | `Library` | `C++` | [Repository](https://github.com/Adisoreq/ConsoleUtils) | 
-| **Godot WaterBox** ![Icon](https://raw.githubusercontent.com/Adisoreq/godot-waterbox/refs/heads/main/raw/icon.webp) | Open-source addon for Godot 4.x that adds buoyancy and drag simulation for RigidBody3D objects inside a water volume. | `Library` `Addon` `Game-dev` | `Godot` `GDScript` `GDShader` | [Repository](https://github.com/Adisoreq/godot-waterbox) |
+| **Godot WaterBox** <br> ![Icon](https://raw.githubusercontent.com/Adisoreq/godot-waterbox/refs/heads/main/raw/icon.webp) | Open-source addon for Godot 4.x that adds buoyancy and drag simulation for RigidBody3D objects inside a water volume. | `Library` `Addon` `Game-dev` | `Godot` `GDScript` `GDShader` | [Repository](https://github.com/Adisoreq/godot-waterbox) |
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Adisoreq&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true)<br/>
