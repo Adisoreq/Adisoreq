@@ -9,7 +9,7 @@ I create business web applications, write low-level libraries, and also make gam
 
 | Project | Description | Type | Technology | Links |
 | :-----: | :---------- | :--: | :--------: | :---: |
-| FormuLang <br> ![Icon](https://raw.githubusercontent.com/Adisoreq/FormuLang/main/raw/images/logo/formulang.svg) | Mathematical, formula-based interpreted scripting language for performing custom, real-time mathematical operations. | `Concept` `Documentation` | `Markdown` | [Repository](https://github.com/Adisoreq/FormuLang) |
+| FormuLang <br> ![Icon](https://github.com/Adisoreq/FormuLang/blob/main/raw/images/icons/monogram.svg) | Mathematical, formula-based interpreted scripting language for performing custom, real-time mathematical operations. | `Concept` `Documentation` | `Markdown` | [Repository](https://github.com/Adisoreq/FormuLang) |
 | **ConsoleUtils** | C++ header-only library to automate writing multiplatform console applications. Contains optimized and universal functions to manipulate user's terminal, suited for Windows, Mac and Linux. | `Library` | `C++` | [Repository](https://github.com/Adisoreq/ConsoleUtils) | 
 | **Godot WaterBox** <br> ![Icon](https://raw.githubusercontent.com/Adisoreq/godot-waterbox/refs/heads/main/raw/icon.webp) | Open-source addon for Godot 4.x that adds buoyancy and drag simulation for RigidBody3D objects inside a water volume. | `Library` `Addon` `Game-dev` | `Godot` `GDScript` `GDShader` | [Repository](https://github.com/Adisoreq/godot-waterbox) |
 
